@@ -1,4 +1,5 @@
 # Disabling the Task Manager
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1bf0df1964ca455cb53a15a98d4a83a3)](https://app.codacy.com/manual/ThomasThelen/Disable-Task-Manager?utm_source=github.com&utm_medium=referral&utm_content=ThomasThelen/Disable-Task-Manager&utm_campaign=Badge_Grade_Settings)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
