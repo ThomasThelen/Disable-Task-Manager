@@ -6,7 +6,7 @@
 Example of modifying Windows registry values. This example disables the Windows Task Manager.
 ## Background
 
-For whatever reason, some people have reason to restrict access to the task manager. Maybe you're a researcher running a long computation and don't want anyone killing your process. Maybe you're a sysadmin trying to lock a computer down. Maybe you're an asshole and don't want people way to stop your crapware. An incredible obtrusive way to disable it is by modifying the value of the `SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System\DisableTaskMgr` key.
+For whatever reason, some people have reason to restrict access to the task manager. Maybe you're a researcher running a long computation and don't want anyone killing your process. Maybe you're a sysadmin trying to lock a computer down. Maybe you're an asshole and don't want people killing your fake av process. An incredible obtrusive way to disable it is by modifying the value of the `SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System\DisableTaskMgr` key.
 Note that [Malwarebytes](https://blog.malwarebytes.com/detections/pum-optional-disabletaskmgr/) flags this.
 
 The key in question resides at 
