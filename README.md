@@ -1,5 +1,5 @@
 # Disabling the Task Manager
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2c2432b7825b4d28abc084b3880f1a0f)](https://www.codacy.com/manual/ThomasThelen/dump-chrome-accounts?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ThomasThelen/dump-chrome-accounts&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/159ce710186b46b1a41a9804b6f6b959)](https://www.codacy.com/manual/ThomasThelen/Disable-Task-Manager?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ThomasThelen/Disable-Task-Manager&amp;utm_campaign=Badge_Grade)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
